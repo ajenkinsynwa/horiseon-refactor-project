@@ -143,6 +143,7 @@ p {
 }
 
 /* consolidated CSS into one command */
+/* Added the content div selector to the command */
 .content div {
     margin-bottom: 20px;
     padding: 50px;
